@@ -1,0 +1,123 @@
+[
+  {
+    "jid": "6285271079313@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 105
+      },
+      {
+        "nama": "#public",
+        "count": 23
+      },
+      {
+        "nama": "#infobot",
+        "count": 20
+      },
+      {
+        "nama": "#hidetag",
+        "count": 14
+      },
+      {
+        "nama": "#dashboard",
+        "count": 12
+      },
+      {
+        "nama": "#donate",
+        "count": 11
+      },
+      {
+        "nama": "#sticker",
+        "count": 5
+      },
+      {
+        "nama": "#owner",
+        "count": 6
+      },
+      {
+        "nama": "#delete",
+        "count": 3
+      },
+      {
+        "nama": "#self",
+        "count": 3
+      },
+      {
+        "nama": "#antilink",
+        "count": 2
+      },
+      {
+        "nama": "#nuliskiri",
+        "count": 1
+      },
+      {
+        "nama": "#linkgc",
+        "count": 1
+      },
+      {
+        "nama": "#revoke",
+        "count": 1
+      },
+      {
+        "nama": "#fakehidetag",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "601114231951@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281261315167@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 3
+      },
+      {
+        "nama": "#infobot",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "628975079683@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      },
+      {
+        "nama": "#menu",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "jid": "6287773841030@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#hidetag",
+        "count": 1
+      }
+    ]
+  }
+]
